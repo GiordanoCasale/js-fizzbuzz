@@ -1,17 +1,17 @@
 //andiamo a creare un for per il ciclo di numeri tra 1 e 100
-for(i=0; i<=100; i++){
+for( let i=0; i<100; i++){
 
-    if( i % 3 == 0 && i % 5){
+    if( (i+1) % 3 == 0 && (i+1) % 5 == 0){
         
-        console.log("buzzfizz")
+        console.log("FizzBuzz")
     }
 
-    else if(i % 3 == 0){
+    else if((i+1) % 3 == 0){
         
         console.log("Fizz")
     }
 
-    else if(i % 5 == 0){
+    else if((i+1) % 5 == 0){
         console.log("Buzz")
     }
 
