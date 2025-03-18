@@ -8,3 +8,8 @@ Consigli del giorno:
 scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
+
+step:
+valutiamo in primis cosa ci serve per iniziare l'esercizio.
+andiamo a creare un for per il ciclo di numeri da 1 a 100.
+all'interno di questo for andremo a creare degli if annidati per la sostituzione dei multipli di 3 e 5
